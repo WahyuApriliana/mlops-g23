@@ -1,0 +1,30 @@
+{
+  "merchant": "UD. SUMBER MAKMUR",
+  "date": "18 Mei 2025",
+  "items": [
+    {
+      "name": "Tepung Terigu Cap Kunci",
+      "quantity": 10,
+      "unit": "Karung",
+      "price_per_unit": 250000,
+      "subtotal": 2500000
+    },
+    {
+      "name": "Gula Pasir Lokal",
+      "quantity": 20,
+      "unit": "Kg",
+      "price_per_unit": 16000,
+      "subtotal": 320000
+    },
+    {
+      "name": "Minyak Goreng Kemasan 2L",
+      "quantity": 24,
+      "unit": "Botol",
+      "price_per_unit": 28000,
+      "subtotal": 672000
+    }
+  ],
+  "subtotal": 3492000,
+  "tax": 174600,
+  "total": 3317400
+}
